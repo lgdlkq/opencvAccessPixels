@@ -157,6 +157,7 @@
     <ClInclude Include="all.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="testAt.cpp" />
     <ClCompile Include="testIp.cpp" />
     <ClCompile Include="testIterator.cpp" />
   </ItemGroup>
