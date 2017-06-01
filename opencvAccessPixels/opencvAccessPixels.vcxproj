@@ -160,6 +160,7 @@
     <ClCompile Include="testAt.cpp" />
     <ClCompile Include="testIp.cpp" />
     <ClCompile Include="testIterator.cpp" />
+    <ClCompile Include="testMain.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
